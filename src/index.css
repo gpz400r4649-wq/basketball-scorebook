@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #f97316; /* Orange-500 */
+  --color-secondary: #1e293b; /* Slate-800 */
+  --color-accent: #3b82f6; /* Blue-500 */
+}
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-family: 'Inter', sans-serif;
+}
